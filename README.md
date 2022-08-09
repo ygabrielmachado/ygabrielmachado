@@ -7,8 +7,8 @@
 
 ![ygabrielmachado](https://komarev.com/ghpvc/?username=ygabrielmachado&label=Profile+Views&color=002fae&style=flat)
 
-<p>🎓 <samp> Computer Engineer working with Cloud Engineering</p>
-<p>🧠 <samp> Majoring in computer engineering at UNIFESSPA</p>
+<p>🧠 <samp> Computer Engineer working with Cloud Engineering</p>
+<p>🎓 <samp> Majoring in computer engineering at UNIFESSPA</p>
 <p>🪓 <samp> Error 404 - "people are like trees" not found</p>
 
 
